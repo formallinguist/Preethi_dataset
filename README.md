@@ -1,2 +1,2 @@
 # Preethi_dataset
-Upon the acceptence of the paper we make dataset and code public
+Some datapoints are made available for reviewers, Upon the acceptence of the paper we make complete dataset and code public
